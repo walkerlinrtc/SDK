@@ -1,0 +1,10 @@
+/Users/godchao/Desktop/SDK/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/godchao/Desktop/SDK/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/godchao/Desktop/SDK/cmake-build-debug/xrtc/CMakeFiles/xrtc.dir
+/Users/godchao/Desktop/SDK/cmake-build-debug/xrtc/CMakeFiles/edit_cache.dir
+/Users/godchao/Desktop/SDK/cmake-build-debug/xrtc/CMakeFiles/rebuild_cache.dir
+/Users/godchao/Desktop/SDK/cmake-build-debug/examples/CMakeFiles/edit_cache.dir
+/Users/godchao/Desktop/SDK/cmake-build-debug/examples/CMakeFiles/rebuild_cache.dir
+/Users/godchao/Desktop/SDK/cmake-build-debug/examples/windows/CMakeFiles/windemo.dir
+/Users/godchao/Desktop/SDK/cmake-build-debug/examples/windows/CMakeFiles/edit_cache.dir
+/Users/godchao/Desktop/SDK/cmake-build-debug/examples/windows/CMakeFiles/rebuild_cache.dir
